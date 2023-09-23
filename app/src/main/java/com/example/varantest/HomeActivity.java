@@ -114,6 +114,7 @@ public class HomeActivity extends AppCompatActivity {
 
     GoogleSignInOptions gso;
     GoogleSignInClient gsc;
+    //test something
     //drawbacks of share prefs
 //This causes an issue when your app evolves. For example, your User class may today have age and weight and name, but in the future, you may want to add gender, address, and title. This will be problematic to handle as you need to write extra code to handle the old version, otherwise, your app will crash.
 
