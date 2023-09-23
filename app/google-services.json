@@ -1,0 +1,39 @@
+{
+  "project_info": {
+    "project_number": "453486668616",
+    "project_id": "varan-test",
+    "storage_bucket": "varan-test.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:453486668616:android:978a8dfbb0001e0b9da17d",
+        "android_client_info": {
+          "package_name": "com.example.varantest"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "453486668616-qusgteb248s5etpgadsivgq3sq4epl7u.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyBK1hE9LiH5d-YJEkGkqyGv9pFL1G_p2R4"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "453486668616-qusgteb248s5etpgadsivgq3sq4epl7u.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
